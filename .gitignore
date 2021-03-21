@@ -1,0 +1,9 @@
+/nbproject/private/
+/cache/
+*.zip
+*.psd
+*.doc
+*.indd
+*.idlk
+/.idea/
+/.vscode
