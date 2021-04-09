@@ -7,3 +7,4 @@
 *.idlk
 /.idea/
 /.vscode
+node_modules/
